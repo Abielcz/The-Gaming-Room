@@ -15,5 +15,5 @@ Journal 8-2 Portfolio
 5. How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing? 
   We based our software around what the user needs since it is important for the user to be able to play the game while that means lower memory usage, better storage       management, or availibility with multiple platforms.
 
-6.How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application? 
+6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application? 
   Following my design template was most important in making sure I was putting everything needed together and also I would definetly use a design template for my next     project.
