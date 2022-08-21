@@ -1,5 +1,6 @@
 # The-Gaming-Room
-Journal 8-2 Portfolio
+Q&A
+
 1. Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
   Our client was "The Gaming Room" and they wanted us to create a game called "Draw it or Lose it" that worked with multiple platforms.
 
